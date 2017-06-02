@@ -2,7 +2,7 @@
 ## Elvis Mogaka
 
 # project name
-**Personal portfolio**-
+**Anita's kitchen**-
 
 # description of project
  A website about anitas kitchen
