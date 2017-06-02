@@ -41,17 +41,17 @@ background-color: #828891;
 .breakfast{
   text-align: center;
   background-image: url(../img/foodtop/breakfast.jpg);
-  padding-bottom: 150px;
+  padding-bottom: 100px;
 }
 .lunch{
   text-align: center;
   background-image: url(../img/foodtop/lunch.jpg);
-  padding-bottom: 150px;
+  padding-bottom: 100px;
 }
 .dinner{
   text-align: center;
   background-image: url(../img/foodtop/dinner.jpg);
-  padding-bottom: 150px;
+  padding-bottom: 100px;
 }
 .dinner:hover{
   background-color: #e05e0d;
@@ -118,4 +118,7 @@ padding-top: 50px;
 .fd:hover{
   background-color: #e05e0d;
   border: 0px;
+}
+.meals h3{
+  padding-top: 52px;
 }
