@@ -84,8 +84,15 @@ padding-top: 50px;
   margin-left: -4px;
 
 }
-.food-types{
+.tabs{
+
   background-image: url(../img/backgrounds/foodsBg.jpg);
+  margin-left: -20px;
+  margin-right: -15px;
+  padding-left: 190px;
+  padding-right: 190px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 .footer{
   background-color: #F15A29;
@@ -121,4 +128,20 @@ padding-top: 50px;
 }
 .meals h3{
   padding-top: 52px;
+}
+.carousel{
+  text-align: center;
+  padding: 50px 0px 50px 0px;
+}
+.justified{
+  text-align: justify;
+}
+#home{
+  background-color: white;
+}
+.whole{
+  text-align: center;
+}
+#home img{
+  width: 300px;
 }
