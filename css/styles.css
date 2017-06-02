@@ -1,0 +1,82 @@
+.header{
+  background-image: url(../img/backgrounds/landing.jpg);
+
+}
+.header h2{
+  color: white;
+}
+.top{
+  text-align: center;
+}
+.top p{
+  font-weight: 80px;
+}
+.a{
+  list-style: none;
+  text-align: center;
+  color: white;
+  padding: 0;
+
+}
+.a li{
+padding-bottom: 84px;
+}
+.meals h3{
+  color: white;
+
+}
+#happy{
+  background-color: #828891;
+  width: 100%;
+}
+#party{
+  background-color: #e05e0d;
+}
+#happy:hover{
+background-color: #e05e0d;
+}
+#party:hover{
+background-color: #828891;
+}
+.breakfast{
+  text-align: center;
+  background-image: url(../img/foodtop/breakfast.jpg);
+  padding-bottom: 150px;
+}
+.lunch{
+  text-align: center;
+  background-image: url(../img/foodtop/lunch.jpg);
+  padding-bottom: 150px;
+}
+.dinner{
+  text-align: center;
+  background-image: url(../img/foodtop/dinner.jpg);
+  padding-bottom: 150px;
+}
+.dinner:hover{
+  background-color: #e05e0d;
+}
+.fastfood-image{
+padding-left: 50px;
+padding-top: 50px;
+}
+.fastfood-image img{
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.fastfood-text{
+  padding: 50px 100px 0px 50px;
+  line-height: 30px;
+}
+.drinks-text{
+  text-align: right;
+  padding: 50px 100px 0px 50px;
+  line-height: 30px;
+}
+.drinks-image{
+  float: left;
+  padding: 70px 0px 0px 0px;
+  margin: 0px;
+}
