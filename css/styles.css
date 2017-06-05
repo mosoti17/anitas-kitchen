@@ -43,15 +43,27 @@ background-color: #828891;
   background-image: url(../img/foodtop/breakfast.jpg);
   padding-bottom: 10%;
 }
+.breakfast:hover{
+  background-color: grey;
+  opacity: 0.6;
+}
 .lunch{
   text-align: center;
   background-image: url(../img/foodtop/lunch.jpg);
   padding-bottom: 10%;
 }
+.lunch:hover{
+  background-color: grey;
+  opacity: 0.6;
+}
 .dinner{
   text-align: center;
   background-image: url(../img/foodtop/dinner.jpg);
   padding-bottom: 10%;
+}
+.dinner:hover{
+  background-color: grey;
+  opacity: 0.6;  
 }
 .dinner:hover{
   background-color: #e05e0d;
