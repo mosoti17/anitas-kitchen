@@ -9,7 +9,7 @@
   text-align: center;
 }
 .top p{
-  font-weight: 80px;
+  font-weight: 150%;
 }
 .a{
   list-style: none;
@@ -19,7 +19,7 @@
 
 }
 .a li{
-padding-bottom: 84px;
+padding-bottom: 24.7%;
 }
 .meals h3{
   color: white;
@@ -41,24 +41,24 @@ background-color: #828891;
 .breakfast{
   text-align: center;
   background-image: url(../img/foodtop/breakfast.jpg);
-  padding-bottom: 100px;
+  padding-bottom: 10%;
 }
 .lunch{
   text-align: center;
   background-image: url(../img/foodtop/lunch.jpg);
-  padding-bottom: 100px;
+  padding-bottom: 10%;
 }
 .dinner{
   text-align: center;
   background-image: url(../img/foodtop/dinner.jpg);
-  padding-bottom: 100px;
+  padding-bottom: 10%;
 }
 .dinner:hover{
   background-color: #e05e0d;
 }
 .fastfood-image{
-padding-left: 50px;
-padding-top: 50px;
+padding-left: 5%;
+padding-top: 5%;
 }
 .fastfood-image img{
   margin-left: 0px;
@@ -67,35 +67,35 @@ padding-top: 50px;
   padding-right: 0px;
 }
 .fastfood-text{
-  padding: 50px 100px 0px 50px;
-  line-height: 30px;
+  padding: 5% 10% 0% 5%;
+  line-height: 200%;
 }
 .drinks-text{
   text-align: right;
-  padding: 50px 100px 50px 50px;
-  line-height: 30px;
+  padding: 5% 10% 0% 5%;
+  line-height: 200%;
 }
 .drinks-image{
   float: left;
-  padding: 70px 0px 50px 0px;
+  padding: 5% 0% 5% 0%;
   margin: 0px;
 }
 .drinks-image img{
-  margin-left: -4px;
+  margin-left: -2%;
 
 }
 .tabs{
 
   background-image: url(../img/backgrounds/foodsBg.jpg);
-  margin-left: -20px;
-  margin-right: -15px;
-  padding-left: 190px;
-  padding-right: 190px;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  margin-left: -2%;
+  margin-right: -1%;
+  padding-left: 15%;
+  padding-right: 19.9%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 .tabs li{
-  padding: 0px 75px 0px 72.8px;
+  padding: 0px 7% 0px 8.6%;
   background-color: #cdd1d6;
 
 }
@@ -103,24 +103,24 @@ padding-top: 50px;
   background-color: #F15A29;
   text-align: center;
   color: white;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  line-height: 40px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  line-height: 150%;
 }
 .subscribe{
   text-align: center;
   background-image: url(../img/backgrounds/subscribe.jpg);
   color: white;
-  padding-top: 100px;
-  padding-bottom: 100px;
-  line-height: 30px;
-  margin-left: -20px;
-  margin-right: -15px;
+  padding-top: 8%;
+  padding-bottom: 8%;
+  line-height: 200%;
+  margin-left: -2%;
+  margin-right: -1%;
 }
 #sub{
   background-color:#F15A29;
   color: white;
-  line-height: 30px;
+  line-height: 200%;
 }
 .fd{
   background-color: white;
@@ -132,21 +132,21 @@ padding-top: 50px;
   border: 0px;
 }
 .meals h3{
-  padding-top: 52px;
+  padding-top: 5%;
 }
 .carousel{
   text-align: center;
-  padding: 50px 0px 50px 0px;
+  padding: 5% 0% 5% 0%;
 }
 .justified{
   text-align: justify;
 }
-#home{
-  background-color: white;
+
 }
 .whole{
   text-align: center;
 }
-#home img{
-  width: 300px;
+
+.customer{
+  border: 2px 2px 2px 2px solid #b6bdc6;
 }
