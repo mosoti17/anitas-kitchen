@@ -63,20 +63,18 @@ background-color: #828891;
 }
 .dinner:hover{
   background-color: grey;
-  opacity: 0.6;  
+  opacity: 0.6;
 }
 .dinner:hover{
   background-color: #e05e0d;
 }
 .fastfood-image{
-padding-left: 5%;
-padding-top: 5%;
+padding: 5%;
+padding-top: 5%
+
 }
 .fastfood-image img{
-  margin-left: 0px;
-  margin-right: 0px;
-  padding-left: 0px;
-  padding-right: 0px;
+
 }
 .fastfood-text{
   padding: 5% 10% 0% 5%;
@@ -160,5 +158,59 @@ padding-top: 5%;
 }
 
 .customer{
-  border: 2px 2px 2px 2px solid #b6bdc6;
+  
+
+}
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    background-color: #F15A29;
+    background-color: #F15A29;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+        font-size: 40px;
+        top: 15px;
+        right: 35px;
+    }
+}
+#open{
+  color: white;
+  font-size: 200%;
 }
